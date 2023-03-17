@@ -2,7 +2,7 @@ import PyPDF2
 
 # This class takes in a dictionary of file names and the pages from each file you would like to splice together.
 # List them in the order you would like the final pdf to have them in. This may mean adding the same file
-# to the list twice with different pages specified, if you want to splice something in the middle, for example
+# to the list twice with different pages specified if you want to splice something in the middle.
 
 #NOTE: Use actual page numbers, not page indicies
 
